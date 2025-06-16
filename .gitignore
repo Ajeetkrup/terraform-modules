@@ -1,0 +1,3 @@
+.terraform*
+*.tfstate
+app/terra-ec2-key*
